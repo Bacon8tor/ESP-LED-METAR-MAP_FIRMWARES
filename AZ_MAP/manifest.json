@@ -1,5 +1,6 @@
 {
     "name": "AZ_LED_METAR_MAP_FIRMWARE",
+    "new_install_prompt_erase": true,
     "version": "1.0.0",
     "builds": [
       {
