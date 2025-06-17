@@ -1,0 +1,12 @@
+{
+  "name": "FLORIDA_LED_METAR_MAP_FIRMWARE",
+  "version": "1.0.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "https://raw.githubusercontent.com/Bacon8tor/ESP-LED-METAR-MAP_FIRMWARES/main/FLORIDA_MAP/merged-firmware.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
